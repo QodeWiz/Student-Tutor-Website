@@ -1,4 +1,4 @@
-const express  = require('express');
+npx http-server .const express  = require('express');
 const app = express();
 
 app.get('/', (req,res) => {
